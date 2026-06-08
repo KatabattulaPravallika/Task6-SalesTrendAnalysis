@@ -1,0 +1,27 @@
+Task 6 - Sales Trend Analysis Using Aggregations
+
+Tool Used:
+SQLite
+
+Dataset:
+Sample - Superstore.csv
+
+Queries Performed:
+
+1. Monthly Revenue Analysis
+2. Monthly Order Volume Analysis
+3. Combined Revenue and Volume Analysis
+4. Top 3 Months by Sales
+5. Revenue Analysis for a Specific Year
+
+Key SQL Functions:
+
+* SUM()
+* COUNT(DISTINCT)
+* GROUP BY
+* ORDER BY
+* LIMIT
+* strftime()
+
+Outcome:
+Learned how to aggregate sales data, analyze monthly trends, calculate revenue, and determine order volume using SQL.
